@@ -1,7 +1,7 @@
 ﻿/*
    JS Activity Clock
-   Name: 
-   Date:   
+   Name: Derrick Francisco
+   Date: 05/06/2024  
 
    function getWeekday(dayNum)
       Returns the text of the day of the week where dayNum
